@@ -6,7 +6,7 @@
 <sup>2</sup>Meat Science and Animal Biologics Program, Department of Animal and Dairy Sciences, University of Wisconsin, Madison, WS, USA <br/>
 
 
-1. Fastq and Metadata files from the manuscript titled "Yeast fermentate-mediated reduction of Salmonella Reading and Typhimurium in an in vitro turkey cecal culture model" <br/>
+1. Fastq and Metadata files from the manuscript titled "Yeast fermentate-mediated reduction of *Salmonella* Reading and Typhimurium in an in vitro turkey cecal culture model" <br/>
 2. Sequenced on an Ilumina Miseq targeting the V4 region. Please refer to manuscript for more detailed methodology. <br/>
 3. Both forward and reverse reads are located within folder. <br/>
 
